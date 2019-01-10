@@ -1,0 +1,52 @@
+user sotiris  sent a meessage to  me 2019-01-01 08:27:33.
+user sotiris  sent a meessage to  me 2019-01-01 08:28:03.
+user sotiris  read his inbox  2019-01-01 09:14:24.
+user sotiris  read his inbox  2019-01-01 09:14:27.
+user sotiris  read his inbox  2019-01-01 09:14:58.
+user sotiris  read his inbox  2019-01-01 09:20:45.
+user sotiris  read his inbox  2019-01-01 09:20:51.
+user sotiris  read his inbox  2019-01-01 09:20:53.
+user sotiris  read his inbox  2019-01-01 09:20:53.
+user sotiris  read his inbox  2019-01-01 09:20:54.
+user sotiris  sent a meessage to  sotiris 2019-01-01 09:21:06.
+user sotiris  read his inbox  2019-01-01 09:21:09.
+user sotiris  read his inbox  2019-01-01 09:21:10.
+user sotiris  read his inbox  2019-01-01 09:21:10.
+user sotiris  sent a meessage to  me 2019-01-01 09:29:51.
+user sotiris  read his inbox  2019-01-01 09:38:38.
+user sotiris  read his inbox  2019-01-01 09:40:55.
+user sotiris  read his inbox  2019-01-01 09:43:18.
+user sotiris  read his inbox  2019-01-01 09:43:52.
+user sotiris  read his inbox  2019-01-01 09:44:19.
+user sotiris  read his inbox  2019-01-01 09:45:13.
+user sotiris  read his inbox  2019-01-01 09:47:23.
+user sotiris  read his Sent  2019-01-01 09:52:57.
+user sotiris  read his inbox  2019-01-01 09:55:19.
+user sotiris  read his Sent  2019-01-01 09:59:57.
+user sotiris  read his inbox  2019-01-01 10:11:05.
+user sotiris  read his inbox  2019-01-01 11:32:17.
+user sotiris  read his Sent  2019-01-01 11:32:17.
+user sotiris  read his inbox  2019-01-01 11:32:35.
+user sotiris  read his Sent  2019-01-01 11:32:35.
+user sotiris  read his inbox  2019-01-01 11:34:16.
+user sotiris  read his Sent  2019-01-01 11:34:16.
+user sotiris  read his inbox  2019-01-01 11:34:22.
+user sotiris  read his Sent  2019-01-01 11:34:22.
+user sotiris  read his inbox  2019-01-01 11:35:27.
+user sotiris  read his Sent  2019-01-01 11:35:27.
+user sotiris  read his inbox  2019-01-01 11:35:46.
+user sotiris  updated a message this is an updated message  2019-01-01 11:35:46.
+user sotiris  read his inbox  2019-01-01 11:35:46.
+user sotiris  read his Sent  2019-01-01 11:35:46.
+user sotiris  read his inbox  2019-01-01 11:36:40.
+user sotiris  updated a message this is an updated message too\  2019-01-01 11:36:40.
+user sotiris  read his inbox  2019-01-01 11:36:40.
+user sotiris  read his Sent  2019-01-01 11:36:40.
+user sotiris  read his inbox  2019-01-01 11:37:55.
+user sotiris  updated a message message edit 3  2019-01-01 11:37:55.
+user sotiris  read his inbox  2019-01-01 11:37:55.
+user sotiris  read his Sent  2019-01-01 11:37:55.
+user sotiris  read his inbox  2019-01-01 11:38:48.
+user sotiris  read his Sent  2019-01-01 11:38:48.
+user sotiris  read his inbox  2019-01-01 11:39:01.
+user sotiris  updated a message update 4  2019-01-01 11:39:01.

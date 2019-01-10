@@ -1,0 +1,13 @@
+gold_user me  read his inbox  2019-01-02 12:49:24.
+gold_user me  read his inbox  2019-01-02 12:49:42.
+gold_user me  read his inbox  2019-01-02 12:50:02.
+gold_user me  updated a message me updated this message  2019-01-02 12:50:02.
+gold_user me  read his Sent  2019-01-02 12:50:42.
+gold_user me  read his Sent  2019-01-02 12:50:55.
+gold_user me  deleted a message   2019-01-02 12:50:55.
+gold_user me  read his inbox  2019-01-02 12:51:25.
+gold_user me  read his inbox  2019-01-02 12:51:34.
+gold_user me  deleted a message   2019-01-02 12:51:34.
+gold_user me  read his inbox  2019-01-02 12:52:44.
+gold_user me  read his inbox  2019-01-02 12:52:51.
+gold_user me  deleted a message   2019-01-02 12:52:51.
